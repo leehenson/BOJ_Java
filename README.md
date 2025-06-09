@@ -4,6 +4,7 @@
 - [백준 1546](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-1546)
 - [백준 11659](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-11659)
 - [백준 11660](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-11660-%EC%9E%90%EB%B0%94)
+- [백준 10986](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-10986-%EC%9E%90%EB%B0%94)
 - [백준 2018](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-2018)
 - [백준 1940](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-1940)
 - [백준 12891](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-12891)
