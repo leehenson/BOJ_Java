@@ -1,4 +1,4 @@
-package datastructure.arrayandlist;
+package datastructure.twopointer;
 
 import java.util.Scanner;
 
