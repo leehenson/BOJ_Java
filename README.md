@@ -32,7 +32,7 @@
 - [백준 2164](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-2164)
 - [백준 11286](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-11286)
 
-</br>
+<br />
 
 ### 정렬
 
@@ -55,7 +55,7 @@
 
 #### 기수 정렬
 
-</br>
+<br />
 
 ### 탐색
 
@@ -71,14 +71,14 @@
 
 - [백준 1920](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-1920-%EC%9E%90%EB%B0%94)
 
-</br>
+<br />
 
 ### 그리디
 
 - [백준 11047](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-11047-%EC%9E%90%EB%B0%94)
 - [백준 1541](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-1541-%EC%9E%90%EB%B0%94)
 
-</br>
+<br />
 
 ### 정수론
 
@@ -92,7 +92,7 @@
 
 #### 확장 유클리드 호제법
 
-</br>
+<br />
 
 ### 그래프
 
@@ -116,7 +116,7 @@
 
 #### 최소 신장 트리
 
-</br>
+<br />
 
 ### 트리
 
@@ -128,18 +128,18 @@
 
 #### 최소 공통 조상
 
-</br>
+<br />
 
 ### 조합
 
 - [백준 11050](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-11050-%EC%9E%90%EB%B0%94)
 
-</br>
+<br />
 
 ### 동적 계획법
 
 - [백준 11726](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-11726-%EC%9E%90%EB%B0%94)
 
-</br>
+<br />
 
 ### 기하
