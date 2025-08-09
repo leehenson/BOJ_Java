@@ -69,6 +69,7 @@
 
 - [백준 11724](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-11724-%EC%9E%90%EB%B0%94)
 - [백준 2023](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-2023-%EC%9E%90%EB%B0%94)
+- [백준 13023](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-13023-%EC%9E%90%EB%B0%94)
 
 #### 너비 우선 탐색
 
