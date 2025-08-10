@@ -75,6 +75,7 @@
 
 - [백준 1260](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-1260-%EC%9E%90%EB%B0%94)
 - [백준 2178](http://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-2178-%EC%9E%90%EB%B0%94)
+- [백준 1167](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-1167-%EC%9E%90%EB%B0%94)
 
 #### 이진 탐색
 
