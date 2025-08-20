@@ -88,6 +88,7 @@
 ### 그리디
 
 - [백준 11047](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-11047-%EC%9E%90%EB%B0%94)
+- [백준 1715](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-1715-%EC%9E%90%EB%B0%94)
 - [백준 1541](https://velog.io/@henson/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%B1%EC%A4%80-1541-%EC%9E%90%EB%B0%94)
 
 <br />
